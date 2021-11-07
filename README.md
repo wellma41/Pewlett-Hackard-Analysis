@@ -10,7 +10,7 @@ Second, a table that provides a list of employees that are eligible for particip
 
 ### Retirees
 	
-- There are 90339 individuals close to retirement.
+- There are 90339 individuals close to retirement. Acquired through a count of the unique_titles.csv (see figure "Unique Title Counts" below).
 
 - Over 40000 employees either switched titles or were promoted. This figure is an approximate difference between the counts for the retirement_titles.csv and the unique_titles.csv
 
