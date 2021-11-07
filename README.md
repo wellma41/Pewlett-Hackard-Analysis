@@ -15,7 +15,8 @@ Second, a table that provides a list of employees that are eligible for particip
 - Over 40000 employees either switched titles or were promoted.
 
 - Most of the retiring empolyees are senior level staff and engineers so management will probably have to promote a number of the junior staff to fill the upper ranks.
-	
+![Table of Upcoming Retirements by Role](https://user-images.githubusercontent.com/90660790/140636962-b77f1d95-f085-48e3-9b28-6d832d1f7343.PNG)
+
 ### Mentorship
 
 -There are 1550 employees eligible for the mentorship program
