@@ -11,7 +11,9 @@ Second, a table that provides a list of employees that are eligible for particip
 ### Retirees
 	
 -There are 90339 individuals close to retirement.
+
 - Over 40000 employees either switched titles or were promoted.
+
 -Most of the retiring empolyees are senior level staff and engineers so management will probably have to promote a number of the junior staff to fill the upper ranks.
 	
 ### Mentorship
